@@ -1,3 +1,5 @@
 ez egy másik fontos dokumentum.
 egy új sor
 hibajavitott sor
+modositas
+ujabb modositas
